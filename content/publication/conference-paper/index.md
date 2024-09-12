@@ -1,40 +1,29 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: 'Spare parts management analytics for smart maintenance: A review on dealing
+  with challenges to warranty profitability'
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+- Shadia Yahya Baroud
+- Nor Adnan Yahaya
+- Abdelrafe M Elzamly
+date: '2023-01-01'
+publishDate: '2024-09-12T06:08:50.211569Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the 1st International Conference on Frontier of Digital
+  Technology Towards a Sustainable Society*'
+doi: https://doi.org/10.1063/5.0133121
+abstract: Warranty is an important part of product marketing that helps both manufacturer
+  and customer. From the standpoint of the manufacturer, warranty can help the company
+  make more money and improve its reputation. From the customer's perspective, warranty
+  is seen as a dependable indicator to quality assurance (QA). The aim of this paper
+  is to gain some initial insights on spare part analytics which is important for
+  the development of any smart maintenance system in this new industrial era. We do
+  this by first focusing on only one important aspect, which is warranty. This results
+  in a discussion on some possible challenges that can be adopted in dealing with
+  difficult issues related to spare parts warranty such as handling claims during
+  the warranty period.
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,13 +34,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -75,13 +58,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
