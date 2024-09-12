@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      
+        Welcome to my space! I’m deeply involved in exploring cutting-edge technology and innovative solutions. My work spans across various disciplines, blending both theoretical and practical approaches to solve real-world challenges. I’m passionate about areas like machine learning, system security, and robotics, and I constantly seek out projects that push the boundaries of what's possible.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+
+        Whether I’m building robust systems, analyzing complex data, or working on groundbreaking research, my mission is to contribute to the advancement of technology in ways that positively impact society. If you're interested in collaborating or sharing ideas, don’t hesitate to get in touch!😃
     design:
       columns: '1'
   - block: collection
