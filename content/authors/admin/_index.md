@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shadia Baroud
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Shadia Baroud
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shadia
+last_name: Baroud
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI Researcher and Developer | Data Scientist | PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UNIMY University
+    url: https://www.unimy.edu.my/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/shadia-baroud/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -48,14 +48,14 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Data Science
   - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: UNIMY University
+    date_start: 2021-05-01
+    date_end: 2025-02-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -142,11 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Arabic
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: French
     percent: 25
 
 # Awards.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shadia Baroud is a technically proficient Research Fellow and Data Scientist with over 14 years of experience in AI, machine learning, system analysis and software engineering. Extensively published in theoretical and experimental work, with significant expertise in data analysis, project management and academic research. A proven ability to develop and implement advanced algorithms across multiple domains, including Machine Learning, Multi-agent Systems, Computer Vision, NLP and cybersecurity. Seeking a supervisory or leadership role where She can contributes to cutting-edge research and technological advancements.
