@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Hugo Academic CV Theme</title>
-    <link>http://localhost:63979/publication/</link>
-      <atom:link href="http://localhost:63979/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:63979/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:63979/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>Cutting-Edge AI Approaches with MAS for PdM in Industry 4.0: Challenges and Future Directions</title>
-      <link>http://localhost:63979/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63979/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing Machine Learning Algorithms for Intrusion Detection: An Experimental Study Using the UNSW-NB15 Dataset</title>
-      <link>http://localhost:63979/publication/khamayseh-2023/</link>
+      <link>http://localhost:1313/publication/khamayseh-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63979/publication/khamayseh-2023/</guid>
+      <guid>http://localhost:1313/publication/khamayseh-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spare parts management analytics for smart maintenance: A review on dealing with challenges to warranty profitability</title>
-      <link>http://localhost:63979/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63979/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Evolutionary Approach to Software Testing Ontology Development</title>
-      <link>http://localhost:63979/publication/yahaya-2022/</link>
+      <link>http://localhost:1313/publication/yahaya-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63979/publication/yahaya-2022/</guid>
+      <guid>http://localhost:1313/publication/yahaya-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consumers Attitude and Purchasing Behavior on Mobile Shopping : A Review</title>
-      <link>http://localhost:63979/publication/baroud-2022/</link>
+      <link>http://localhost:1313/publication/baroud-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63979/publication/baroud-2022/</guid>
+      <guid>http://localhost:1313/publication/baroud-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Case Based Reasoning on Breast Cancer Data : Gaza Strip Case Study</title>
-      <link>http://localhost:63979/publication/shadia-y-baroud-2018/</link>
+      <link>http://localhost:1313/publication/shadia-y-baroud-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63979/publication/shadia-y-baroud-2018/</guid>
+      <guid>http://localhost:1313/publication/shadia-y-baroud-2018/</guid>
       <description></description>
     </item>
     

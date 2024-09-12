@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ai.expert@shadia-baroud.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ms.shadia?igsh=a2RtNzBvZ3o5dnRj&utm_source=qr
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ShadiaBaroud
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shadia-baroud/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=B8_znRYAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-0646-8301
 
 interests:
   - Artificial Intelligence
