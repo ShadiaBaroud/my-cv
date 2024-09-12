@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Behavior | Hugo Academic CV Theme</title>
+    <link>http://localhost:63979/tags/s-behavior/</link>
+      <atom:link href="http://localhost:63979/tags/s-behavior/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Behavior</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:63979/media/icon_hu7729264130191091259.png</url>
+      <title>S Behavior</title>
+      <link>http://localhost:63979/tags/s-behavior/</link>
+    </image>
+    
+    <item>
+      <title>Consumers Attitude and Purchasing Behavior on Mobile Shopping : A Review</title>
+      <link>http://localhost:63979/publication/baroud-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63979/publication/baroud-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

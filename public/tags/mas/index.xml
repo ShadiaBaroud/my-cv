@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mas | Hugo Academic CV Theme</title>
+    <link>http://localhost:63979/tags/mas/</link>
+      <atom:link href="http://localhost:63979/tags/mas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:63979/media/icon_hu7729264130191091259.png</url>
+      <title>Mas</title>
+      <link>http://localhost:63979/tags/mas/</link>
+    </image>
+    
+    <item>
+      <title>Cutting-Edge AI Approaches with MAS for PdM in Industry 4.0: Challenges and Future Directions</title>
+      <link>http://localhost:63979/publication/baroud-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63979/publication/baroud-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

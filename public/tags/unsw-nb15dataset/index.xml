@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNSW-NB15dataset | Hugo Academic CV Theme</title>
+    <link>http://localhost:63979/tags/unsw-nb15dataset/</link>
+      <atom:link href="http://localhost:63979/tags/unsw-nb15dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>UNSW-NB15dataset</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:63979/media/icon_hu7729264130191091259.png</url>
+      <title>UNSW-NB15dataset</title>
+      <link>http://localhost:63979/tags/unsw-nb15dataset/</link>
+    </image>
+    
+    <item>
+      <title>Comparing Machine Learning Algorithms for Intrusion Detection: An Experimental Study Using the UNSW-NB15 Dataset</title>
+      <link>http://localhost:63979/publication/khamayseh-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63979/publication/khamayseh-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
