@@ -1,0 +1,6 @@
+/* Increase the size of the logo in the navbar */
+.navbar .navbar-logo img {
+    max-height: 80px; /* Adjust this value as needed */
+    height: auto;
+    width: auto;
+}
