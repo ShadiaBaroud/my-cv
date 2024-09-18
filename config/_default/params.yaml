@@ -7,7 +7,6 @@
 appearance:
   mode: system
   color: emerald
-  customCSS: ["css/custom.css"]
 
 # SEO
 marketing:
@@ -37,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       filename: "logo.jpg"
+      css_class: "custom-logo"
 
 # Site footer
 # footer:

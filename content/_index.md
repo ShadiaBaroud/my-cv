@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-ai2.jpg
+          filename: AI2.jpg
           filters:
             brightness: 1.0
           size: cover

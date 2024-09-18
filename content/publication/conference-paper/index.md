@@ -5,7 +5,7 @@ authors:
 - Shadia Yahya Baroud
 - Nor Adnan Yahaya
 - Abdelrafe M Elzamly
-date: '2023-01-01'
+date: '2023-05-22'
 publishDate: '2024-09-12T06:08:50.211569Z'
 publication_types:
 - paper-conference
@@ -23,7 +23,7 @@ abstract: Warranty is an important part of product marketing that helps both man
   difficult issues related to spare parts warranty such as handling claims during
   the warranty period.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,4 +57,7 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
+tags:
+- Artificial Intelligence
 ---

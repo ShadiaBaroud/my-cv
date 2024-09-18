@@ -1,6 +1,4 @@
-/* Increase the size of the logo in the navbar */
-.navbar .navbar-logo img {
-    max-height: 80px; /* Adjust this value as needed */
-    height: auto;
-    width: auto;
+.navbar-brand img {
+    width: 70px; /* Set your desired width */
+    height: auto; /* Maintain aspect ratio */
 }

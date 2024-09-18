@@ -5,14 +5,14 @@ authors:
 - Shadia Yahya Baroud
 - Nor Adnan Yahaya
 - Abdelrafe M Elzamly
-date: '2024-01-01'
+date: '2024-05-17'
 publishDate: '2024-09-12T06:08:50.203177Z'
 publication_types:
 - article-journal
 publication: '*Journal of Applied Data Sciences*'
 publication_short: ""
 
-abstract: Abstract Integrating Artificial Intelligence (AI) within Industry 4.0 has
+abstract: Integrating Artificial Intelligence (AI) within Industry 4.0 has
   propelled the evolution of fault diagnosis and predictive maintenance (PdM) strategies,
   marking a significant shift towards smarter maintenance paradigms in the mechatronics
   sector. With the advent of Industry 4.0, mechatronic systems have become increasingly
@@ -45,10 +45,9 @@ abstract: Abstract Integrating Artificial Intelligence (AI) within Industry 4.0 
   domain.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- ai
 - artificial intelligence
 - industry 4
 - machine learning

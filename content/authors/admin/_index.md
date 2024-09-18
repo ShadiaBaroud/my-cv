@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI Researcher and Developer | Data Scientist | PhD Candidate
+role: AI Researcher and Developer | Data Scientist | PhD Candidate | IEEE Member
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,6 +45,8 @@ profiles:
     url: https://scholar.google.com/citations?user=B8_znRYAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-0646-8301
+  # - icon: academicons/ieee
+  #   url: https://orcid.org/0000-0003-0646-8301
 
 interests:
   - Artificial Intelligence
@@ -274,3 +276,7 @@ awards:
 ## About Me
 
 Shadia Baroud is a technically proficient Research Fellow and Data Scientist with over 14 years of experience in AI, machine learning, system analysis and software engineering. Extensively published in theoretical and experimental work, with significant expertise in data analysis, project management and academic research. A proven ability to develop and implement advanced algorithms across multiple domains, including Machine Learning, Multi-agent Systems, Computer Vision, NLP and cybersecurity. Seeking a supervisory or leadership role where She can contributes to cutting-edge research and technological advancements.
+
+{{% callout note %}}
+The site is new and growing, not everything is done yet :)
+{{% /callout %}}

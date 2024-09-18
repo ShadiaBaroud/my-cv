@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Cutting-Edge AI Approaches with MAS for PdM in Industry 4.0: Challenges and Future Directions</title>
       <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spare parts management analytics for smart maintenance: A review on dealing with challenges to warranty profitability</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description></description>
     </item>
     
@@ -25,14 +33,6 @@
       <link>http://localhost:1313/publication/khamayseh-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/khamayseh-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spare parts management analytics for smart maintenance: A review on dealing with challenges to warranty profitability</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description></description>
     </item>
     
