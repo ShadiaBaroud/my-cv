@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      filename: "logo.jpg"
+      text: Shadia Baroud
       css_class: "custom-logo"
 
 # Site footer

@@ -1,4 +1,18 @@
 .navbar-brand img {
-    width: 70px; /* Set your desired width */
+    width: auto; /* Set your desired width */
     height: auto; /* Maintain aspect ratio */
 }
+
+.biography-overlay {
+    position: relative;
+    z-index: 1;
+    color: white; /* Set the text color to white */
+  }
+  
+  .biography-overlay h1, /* Assuming there's an h1 */
+  .biography-overlay li, /* Assuming there's an h1 */
+  .biography-overlay h2, /* Assuming there's an h2 */
+  .biography-overlay p { /* Target paragraphs */
+    color: white; /* Make text color white */
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Add a shadow for better contrast */
+  }

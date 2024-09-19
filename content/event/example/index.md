@@ -1,12 +1,10 @@
 ---
-title: AI for Good Global Summit
+title: The 2024 World AI Conference
 
-event: AI for Good Global Summit
+event: The 2024 World AI Conference
 event_url: https://aiforgood.itu.int/summit24/
 
-location: Geneva, Switzerland
-address:
-  street: Online
+location: Shanghai, China
 
 summary: The 2024 World AI Conference and High-Level Meeting on Global AI Governance is being held July 4-6 in Shanghai with the theme "governing AI for good and for all.
 abstract: 'The 2024 World AI Conference and High-Level Meeting on Global AI Governance is being held July 4-6 in Shanghai with the theme "governing AI for good and for all.'
@@ -35,7 +33,7 @@ image:
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
 # url_pdf: ''
-url_slides: uploads/Use-case.pptx
+# url_slides: 
 url_video: uploads/ai-video.mp4
 
 # Markdown Slides (optional).

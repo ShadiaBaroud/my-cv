@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>AI for Good Global Summit</title>
+      <title>The 2024 World AI Conference</title>
       <link>http://localhost:1313/event/example/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/example/</guid>
@@ -321,7 +321,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-281349756&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-351247698&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -339,7 +339,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-281349756&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-351247698&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
